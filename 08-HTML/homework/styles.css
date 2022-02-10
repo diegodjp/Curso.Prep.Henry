@@ -1,0 +1,19 @@
+h1{
+    color: maroon;
+  }
+img{
+    width: 400px;
+   }
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: violet;    
+   }
+#spanID{
+    font-size: 18px;
+    margin: 50px;
+   }
+.divClass{
+    padding: 50px;
+    border: 2px solid red;
+   }
